@@ -10,25 +10,15 @@ package country;
  */
 public class Capital extends Country {
 
-    private Country country;
     private String cityName;
 
-    public Capital(Country country, String cityName, String name, int population, String leaning) {
-        super(name, population, leaning);
-        this.country = country;
+    public Capital(String cityName, String name, int population, String leaning) {
+        super(name, population, leaning, cityName);
         this.cityName = cityName;
-    }
-
-    public Country getCountry() {
-        return country;
     }
 
     public String getCityName() {
         return cityName;
-    }
-
-    public void setCountry(Country country) {
-        this.country = country;
     }
 
     public void setCityName(String cityName) {
@@ -37,7 +27,7 @@ public class Capital extends Country {
 
     @Override
     public String toString() {
-        return "Capital{" + "country=" + country + ", cityName=" + cityName + '}';
+        return  cityName + " + cityName + '}'";
     }
 
 }

@@ -13,7 +13,7 @@ public class Country {
     private int population;
     private String leaning;
 
-    public Country(String name, int population, String leaning) {
+    public Country(String name, int population, String leaning, String cityName) {
         this.name = name;
         this.population = population;
         this.leaning = leaning;
@@ -48,6 +48,10 @@ public class Country {
         String line2 = "\nPopulation: " + population;
         String line3 = "\nPolitical leaning: " + leaning;
         return line1 + line2 + line3;
+    }
+
+    boolean compareTo(Country country) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
 }
