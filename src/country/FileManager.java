@@ -64,4 +64,12 @@ public class FileManager {
         return "Country does not exist.";
     }
     
+    public String Display(){
+        String line1 = "";
+        for(int i = 0; i<count; i++)
+        {
+            line1 += objCon[i] + "\n";
+        }
+        return line1;
+    }
 }
