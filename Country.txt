@@ -1,0 +1,102 @@
+Afghanistan#38000000#Center#Kabul
+Albania#2900000#Center-Right#Tirana
+Algeria#43000000#Center-Right#Algiers
+Andorra#77000#Center#Andorra la Vella
+Angola#31000000#Center-Left#Luanda
+Antigua and Barbuda#97000#Center#Saint John's
+Argentina#45000000#Center-Left#Buenos Aires
+Armenia#2900000#Center-Right#Yerevan
+Australia#25000000#Center-Right#Canberra
+Austria#8900000#Center-Right#Vienna
+Azerbaijan#10000000#Center-Right#Baku
+Bahamas#390000#Center#Nassau
+Bahrain#1600000#Center-Right#Manama
+Bangladesh#160000000#Center-Left#Dhaka
+Barbados#290000#Center-Left#Bridgetown
+Belarus#9500000#Center#Minsk
+Belgium#11500000#Center-Left#Brussels
+Belize#400000#Center-Left#Belmopan
+Benin#12000000#Center-Left#Porto-Novo
+Bhutan#800000#Center#Thimphu
+Bolivia#11000000#Left#Sucre, La Paz
+Bosnia and Herzegovina#3300000#Center-Left#Sarajevo
+Botswana#2300000#Center-Right#Gaborone
+Brazil#210000000#Center-Right#Brasília
+Brunei#430000#Center#Bandar Seri Begawan
+Bulgaria#7000000#Center-Right#Sofia
+Burkina Faso#20000000#Center-Left#Ouagadougou
+Burundi#11000000#Left#Gitega
+Cabo Verde#550000#Center-Left#Praia
+Cambodia#16000000#Center#Phnom Penh
+Cameroon#26000000#Center-Right#Yaoundé
+Canada#38000000#Center-Left#Ottawa
+Central African Republic#4900000#Center-Left#Bangui
+Chad#16000000#Center-Right#N'Djamena
+Chile#19000000#Center-Right#Santiago
+China#1400000000#Center-Left#Beijing
+Colombia#50000000#Center-Right#Bogotá
+Comoros#870000#Center-Left#Moroni
+Congo (Congo-Brazzaville)#5100000#Center-Left#Brazzaville
+Costa Rica#5100000#Center-Left#San José
+Croatia#4100000#Center-Right#Zagreb
+Cuba#11000000#Left#Havana
+Cyprus#1200000#Center-Right#Nicosia
+Czech Republic#11000000#Center-Right#Prague
+Democratic Republic of the Congo#90000000#Center-Left#Kinshasa
+Denmark#5800000#Center-Left#Copenhagen
+Djibouti#1000000#Center#Djibouti
+Dominica#72000#Center#Roseau
+Dominican Republic#11000000#Center-Right#Santo Domingo
+East Timor (Timor-Leste)#1300000#Center-Left#Dili
+Ecuador#17000000#Center-Left#Quito
+Egypt#100000000#Center-Right#Cairo
+El Salvador#6400000#Center-Left#San Salvador
+Equatorial Guinea#1300000#Center-Right#Malabo
+Eritrea#3500000#Center#Asmara
+Estonia#1300000#Center-Right#Tallinn
+Eswatini#1100000#Center-Right#Lobamba, Mbabane
+Ethiopia#114000000#Center-Left#Addis Ababa
+Fiji#900000#Center-Left#Suva
+Finland#5500000#Center-Left#Helsinki
+France#67000000#Center-Left#Paris
+Gabon#2200000#Center-Right#Libreville
+Gambia#2300000#Center-Left#Banjul
+Georgia#4000000#Center-Right#Tbilisi
+Germany#83000000#Center-Left#Berlin
+Ghana#31000000#Center-Left#Accra
+Greece#11000000#Center-Right#Athens
+Grenada#110000#Center#St. George's
+Guatemala#18000000#Center-Right#Guatemala City
+Guinea#13000000#Center-Left#Conakry
+Guinea-Bissau#1900000#Center-Left#Bissau
+Guyana#800000#Center-Left#Georgetown
+Haiti#11000000#Center-Left#Port-au-Prince
+Holy See#800#Center#Vatican City
+Honduras#10000000#Center-Right#Tegucigalpa
+Hungary#9700000#Center-Right#Budapest
+Iceland#360000#Center-Left#Reykjavík
+India#1380000000#Center-Left#New Delhi
+Indonesia#270000000#Center-Right#Jakarta
+Iran#82000000#Center-Left#Tehran
+Iraq#39000000#Center-Left#Baghdad
+Ireland#4900000#Center-Left#Dublin
+Israel#9000000#Center-Right#Jerusalem
+Italy#60000000#Center-Left#Rome
+Jamaica#2900000#Center-Left#Kingston
+Japan#126000000#Center-Right#Tokyo
+Jordan#10000000#Center-Right#Amman
+Kazakhstan#19000000#Center-Right#Nur-Sultan
+Kenya#51000000#Center-Left#Nairobi
+Kiribati#120000#Center#South Tarawa
+Kuwait#4000000#Center-Right#Kuwait City
+Kyrgyzstan#6500000#Center-Right#Bishkek
+Laos#7200000#Center#Vientiane
+Latvia#1900000#Center-Right#Riga
+Lebanon#6800000#Center#Beirut
+Lesotho#2200000#Center-Right#Maseru
+Liberia#5000000#Center-Left#Monrovia
+Libya#6700000#Center-Right#Tripoli
+Liechtenstein#38000#Center-Right#Vaduz
+Lithuania#2800000#Center-Right#Vilnius
+Luxembourg#620000#Center-Left#Luxembourg City
+Madagascar#27000000#Center-Left#Ant
